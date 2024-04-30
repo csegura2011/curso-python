@@ -48,7 +48,7 @@ $ touch hello.py
 
 **PASO 3**: Con algún editor de texto (`gedit`, `nano`, `vim`, etc.) abrimos el archivo `hello.py` y agregamos el siguiente código fuente Python:
 
-```{.bash}
+```{.python}
 print('Hello World!')
 ```
 
@@ -63,101 +63,7 @@ $ python3 hello.py
 
 
 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
-bla 
+
 
 
 

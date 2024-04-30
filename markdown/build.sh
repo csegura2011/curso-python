@@ -18,11 +18,11 @@ pandoc *.md \
     -V geometry:letterpaper \
     -V geometry:landscape \
     -V geometry:twocolumn \
-    -V geometry:margin=1.5cm \
+    -V geometry:margin=1.3cm \
     -V mainfont="Noto Serif" \
     -V sansfont="Noto Sans" \
     -V monofont="Noto Mono" \
-    -V fontsize=9pt \
+    -V fontsize=8pt \
     -V lang:es \
     --toc \
     --pdf-engine=xelatex \
